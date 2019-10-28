@@ -19,6 +19,6 @@
   "homepage": "https://github.com/diego-augusto/url-shortener#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "mongoose": "^4.12.3"
+    "mongoose": "^5.7.7"
   }
 }
